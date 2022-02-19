@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 
 
 -->
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mrigendra-sudo&show_icons=true)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrigendraagrawal/competition)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrigendraagrawal/notebook)
