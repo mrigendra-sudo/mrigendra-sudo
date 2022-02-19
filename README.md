@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 -->
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrigendraagrawal/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrigendraagrawal/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrigendraagrawal/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrigendraagrawal/discussion)
