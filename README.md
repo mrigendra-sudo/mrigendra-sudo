@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
--->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mrigendra-sudo&show_icons=true)
+-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrigendra-sudo&theme=aura&show_icons=true)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrigendraagrawal/competition)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mrigendraagrawal/notebook)
